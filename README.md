@@ -1,1 +1,3 @@
 # skye
+
+A Discord bot!
